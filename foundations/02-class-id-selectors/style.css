@@ -1,0 +1,14 @@
+.odd {
+    background-color: pink;
+    color: black; 
+    font-family: Verdana, Geneva, Dejavu-sans, Tahoma, sans-serif;
+}
+.odd.cooler-class {
+font-size: 24px;
+}
+#n2 {
+    font-size: 36px;color: blue;
+}
+#n4 {
+    font-size: 24px; font-weight: bold; background-color: lightgreen;
+}
